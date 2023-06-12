@@ -25,19 +25,9 @@ https://blog.csdn.net/a_1_1_1_2/article/details/118095140?spm=1001.2101.3001.665
 
  npm i nodemon -g
 
-**创建index.js文件**
-
 **启动文件**
 
 `npx nodemon 文件地址`，就可以启动成功
-
-安装express,数据库，跨域请求
-
-npm i express@next mongoose cors
-
-安装token
-
-npm i jsonwebtoken
 
 ## 创建数据库
 
